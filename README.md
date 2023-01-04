@@ -1,6 +1,6 @@
 - ✧ Hi, I’m @httplilith
 - ✧ I’m interested in game & web development
-- ✧ I’m currently learning java, css & javacript
+- ✧ I’m currently learning java & c#
 - ✧ My favorite programming language is c++
 - ✧ Contact me via discord Lilith#6000
 
