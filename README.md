@@ -1,4 +1,4 @@
-- ✧ Hi, I’m @httplilith
+- ✧ Hi, I’m @ilitheon
 - ✧ I’m interested in game & web development
 - ✧ I’m currently learning java & c#
 - ✧ My favorite programming language is c++
